@@ -16,9 +16,6 @@ class Person {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
 }
 
 
