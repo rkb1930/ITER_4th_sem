@@ -22,6 +22,13 @@ class Person {
 }
 
 
+//inheritance
+class person2 extend person{
+   public void company(){
+       sout
+   }
+}
+
 public class main {
     public static void main(String[] args) {
         Person person = new Person();
